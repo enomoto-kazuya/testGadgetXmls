@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+    <ModulePrefs title=" ok1280gadget.xml ">
+        <Require feature="aadasdas"/>
+    </ModulePrefs>
+    <Content type="html" view="canvas" preferred_width="1280">
+        hogehoge OK </Content>
+</Module>
